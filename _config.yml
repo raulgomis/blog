@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            raulgomis
 locale:           en_US
 url:              
 
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
+  name: Raúl Gomis
+  avatar: https://pbs.twimg.com/profile_images/474175171377373185/2qUBM1vO.jpeg
   bio: "Describe your self."
   email: 
-  disqus-shortname: 
-  twitter: #username
+  disqus-shortname: raulgomis
+  twitter: rgomis
   facebook: #username
   google:
     plus: #username
@@ -40,9 +40,9 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: #username
+  github: raulgomis
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: raulgomis
   xing: #username
   instagram: #username
   lastfm: #username
