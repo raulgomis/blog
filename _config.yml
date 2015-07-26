@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            raulgomis
+title:            Tech Recipes
 locale:           en_US
 url:              //raulgomis.github.io/blog
 
@@ -28,14 +28,14 @@ kramdown:
 owner:
   name: Raúl Gomis
   avatar: https://pbs.twimg.com/profile_images/474175171377373185/2qUBM1vO.jpeg
-  bio: "Describe your self."
+  bio: "R&D Team Lead @Gemalto | MBA | MSc in Computer Engineering | Sports lover | If Not Me, Who? If Not Now, When?"
   email: 
   disqus-shortname: raulgomis
   twitter: rgomis
   facebook: #username
   google:
     plus: #username
-    analytics: 
+    analytics: UA-65610163-1
     verify: 
     ad-client: 
     ad-slot: 
