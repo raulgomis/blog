@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, responsive]
 modified: 2015-07-26T11:21:07.573882-04:00
 comments: true
 image:
-  feature: sample-image-2.jpg
+  feature: about-image.jpg
 ---
 
 Raúl Gomis is a software Team Leader @Gemalto who has been developing with Java/AngularJS for the last five years. He has contributed to improve the methodology and quality of software development through the analysis and implementation in different teams and working environments.
