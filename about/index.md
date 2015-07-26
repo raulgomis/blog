@@ -1,23 +1,14 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2015-07-26T11:21:07.573882-04:00
 comments: true
 image:
   feature: sample-image-2.jpg
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Raúl Gomis is a software Team Leader @Gemalto who has been developing with Java/AngularJS for the last five years. He has contributed to improve the methodology and quality of software development through the analysis and implementation in different teams and working environments.
+He is in love with Frontend technologies, software patterns and strongly believes that doing quality code will radically improve the productivity and would massively reduce the development costs of having software defects in production.
 
-## Minimal Mistakes is all about:
-
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+You can contact me at my LinkedIn profile: https://www.linkedin.com/in/raulgomis
