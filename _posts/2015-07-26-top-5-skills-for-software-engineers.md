@@ -11,7 +11,14 @@ comments: true
 Here are the five of the most important skills and requirements you will need to consider if you want to become a software engineer:
 
 ### 1. Keep it simple
+The KISS principle ("Keep it simple, stupid", as a design principle noted by the U.S. Navy in 1960.) is a rule of thumb that is present in lots of areas. It was referred several times along history: 
+- "Simplicity is the ultimate sophistication" (Leonardo da Vinci)
+- "It seems that perfection is reached not when there is nothing left to add, but when there is nothing left to take away" (Antoine de Saint Exupéry)
+- "Simplify, then add lightness" (Colin Chapman, the founder of Lotus Cars)
 
+It states that most systems work best if they are kept simple rather than made complicated. Software development is one of the fields in which is very well applied.
+
+In the engineering field and specially in Software Engineering try not to reinvent the wheel and follow software patterns and architectural patterns that have been proven during years. 
 
 ### 2. Learn, learn, learn
 
