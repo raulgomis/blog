@@ -12,6 +12,7 @@ Here are the five of the most important skills and requirements you will need to
 
 ### 1. Keep it simple
 The KISS principle ("Keep it simple, stupid", as a design principle noted by the U.S. Navy in 1960.) is a rule of thumb that is present in lots of areas. It was referred several times along history: 
+
 - "Simplicity is the ultimate sophistication" (Leonardo da Vinci)
 - "It seems that perfection is reached not when there is nothing left to add, but when there is nothing left to take away" (Antoine de Saint Exupéry)
 - "Simplify, then add lightness" (Colin Chapman, the founder of Lotus Cars)
