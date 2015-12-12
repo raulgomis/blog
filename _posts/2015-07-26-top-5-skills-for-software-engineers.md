@@ -19,7 +19,10 @@ The KISS principle ("Keep it simple, stupid", as a design principle noted by the
 
 It states that most systems work best if they are kept simple rather than made complicated. Software development is one of the fields in which is very well applied.
 
-In the engineering field and specially in Software Engineering try not to reinvent the wheel and follow software patterns and architectural patterns that have been proven during years. 
+In the engineering field and specially in Software Engineering try not to reinvent the wheel:
+
+- Follow software patterns that have been proven during years. 
+- Reuse code from others and manage your priorities. I know that sometimes it will hurt your ego, but you will not develop in short time better frontend framework than AngularJS, based on the fact that they have a dedicated team of engineers at Google. Use their framework, or chose another you like, but please do not create your own framework when you just need to deliver a product to your customers. 
 
 ### 2. Learn, learn, learn
 "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young." (Henry Ford). 
