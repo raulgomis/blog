@@ -22,7 +22,9 @@ It states that most systems work best if they are kept simple rather than made c
 In the engineering field and specially in Software Engineering try not to reinvent the wheel and follow software patterns and architectural patterns that have been proven during years. 
 
 ### 2. Learn, learn, learn
-I like a lot the this qoute: "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young." (Henry Ford). If you really want to be a good software engineer you should be learning like crazy. Start getting used to learn one technology today and tomorrow learning one new technology because the first is already old fashioned: this happends in software engineering. However, the most important thing is to learn the basic concepts, the _essence_. Frameworks help us to ease our job, I really love them, but you should be asking the why, why the _black magic_ behind a particular framework works and how it was developed. 
+"Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young." (Henry Ford). 
+
+If you really want to be a good software engineer you should be learning like crazy. Start getting used to learn one technology today and tomorrow learning one new technology because the first is already old fashioned: this happends in software engineering. However, the most important thing is to learn the basic concepts, the _essence_. Frameworks help us to ease our job, I really love them, but you should be asking the why, why the _black magic_ behind a particular framework works and how it was developed. 
 
 I suggest that you look throught the source code of AngularJS to see how they implemented the two way databinding, to see how Spring Framework implemented the DI mechanism in Java, etc. I am pretty sure you will learn a lot from the source code. 
 
