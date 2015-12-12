@@ -35,7 +35,7 @@ Software engineering is one the fields in which the motivation of the people is 
 I know it is difficult sometimes, but you should be looking for the perfect code (like a surfer seeks for the perfect wave). Do not stop until you see that your code is _perfect_ paying too much attention to detail. The term _code excellence_ may be relative and it can depend a lot on the project requirements. However, broadly talking, I consider that a _cream code_ is the code that:
 
 - Follows the coding standards / coventions of the team.
-- Provides tests and has a minimun percentage of test coverage.
+- Provides tests and has a minimun percentage of code coverage.
 - Is documented and understandable.
 - Is simple and modular (methods not having more than _X_ lines, computational complexity of functions should be less than _Y_, etc.
  
