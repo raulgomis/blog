@@ -35,9 +35,8 @@ Software engineering is one the fields in which the motivation of the people is 
 
 
 ### 5. Test, test, test
-Learn how to unit test and write testable code (and maintanable code).
+Learn how to unit test and write testable code (and maintanable code). If you write good unit tests, you will ensure all edge cases are covered. Additionally, writing unit tests will force you to think about the code you are writing and designing and implementing a good software architecture.
 
-If you write good unit tests, you will ensure all edge cases are covered. Additionally, writing unit tests will force you to think about the code you are writing and designing and implementing a good software architecture.
 
 [The art of unit testing](http://artofunittesting.com/) is a good book to get to learn what unit testing is all about.
 
