@@ -7,6 +7,10 @@ modified: 2015-12-12
 comments: true
 ---
 
+<figure>
+    <img src="images/posts/Software-Engineer.jpg">
+</figure>
+
 *Software engineers* are responsible for designing, developing, maintaining, testing, and evaluating software and systems that make computers or anything containing software work. Nowadays, *software engineering* is one of the most promising careers and it is easy to notice due to the huge quantity of job offers, headhunters, etc. out there. If you really want to become a good software enginner here are five of the most important skills you will need to consider:
 
 ### 1. Keep it simple
