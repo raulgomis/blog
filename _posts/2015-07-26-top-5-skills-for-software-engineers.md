@@ -31,8 +31,15 @@ I suggest that you look throught the source code of AngularJS to see how they im
 ### 3. Find your motivation
 Software engineering is one the fields in which the motivation of the people is crucial for building great software. As a software engineer and now, as a team lead, I really think that keeping people motivated is the key to succeed within a team. However, I really think that every software engineer should be finding his/her own motivation (technical challenges, new technologies, changes, good software practices, ...) and going for it. Your team lead / manager just will help you to achieve what really motivates you, so it is  very important that your team lead knows what motivates you and you plan with him/her how to achieve your goals.
 
-### 4. Pay attention to detail
+### 4. Seek for code excellence
+I know it is difficult sometimes, but you should be looking for the perfect code (like a surfer seeks for the perfect wave). Do not stop until you see that your code is _perfect_ paying too much attention to detail. The term _code excellence_ may be relative and it can depend a lot on the project requirements. However, broadly talking, I consider that a _cream code_ is the code that:
 
+- Follows the coding standards / coventions of the team.
+- It provides tests and has a minimun percentage of test coverage.
+- It is documented.
+- It is simple and understandable (methods not having more than _X_ lines, computational complexity of functions should be less than _Y_, etc.
+ 
+In order to achieve this code excellence I really suggest using [*Sonar*](http://www.sonarqube.org/), a web platform to manage code quality in your projects.
 
 ### 5. Test, test, test
 Learn how to unit test and write testable code (and maintainable code). If you write good unit tests, you will ensure all edge cases are covered. Additionally, writing unit tests will force you to think about the solution you are designing and will lead you to implement a good software architecture (modular, extensible, maintainable, ...)
@@ -40,8 +47,5 @@ Learn how to unit test and write testable code (and maintainable code). If you w
 One frequent mistake I have seen in several projects is that people tend to think that testing code is not production code so it does not need to be quality code: it could be duplicated, no patterns are needed, non-performant, etc. *Big mistake!* all the code in your project needs to be quality code, otherwise you will suffer endless refactoring sessions in your tests.
 
 [The art of unit testing](http://artofunittesting.com/) is a good book to learn what unit testing is all about.
-
-### 6. Be the best in refactoring
-
 
 
