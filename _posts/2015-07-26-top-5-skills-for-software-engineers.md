@@ -28,14 +28,18 @@ If you really want to be a good software engineer you should be learning like cr
 
 I suggest that you look throught the source code of AngularJS to see how they implemented the two way databinding, to see how Spring Framework implemented the DI mechanism in Java, etc. I am pretty sure you will learn a lot from the source code. 
 
-### 3. Be motivated
+### 3. Find your motivation
+Software engineering is one the fields in which the motivation of the people is crucial for building great software. As a software engineer and now, as a team lead, I really think that keeping people motivated is the key to succeed within a team. However, I really think that every software engineer should be finding his/her own motivation (technical challenges, new technologies, changes, good software practices, ...) and going for it. Your team lead / manager just will help you to achieve what really motivates you, so it is  very important that your team lead knows what motivates you and you plan with him/her how to achieve your goals.
 
-
-### 4. Pay attention to the details
+### 4. Pay attention to detail
 
 
 ### 5. Test, test, test
+Learn how to unit test and write testable code (and maintanable code).
 
+If you write good unit tests, you will ensure all edge cases are covered. Additionally, writing unit tests will force you to think about the code you are writing and designing and implementing a good software architecture.
+
+[The art of unit testing](http://artofunittesting.com/) is a good book to get to learn what unit testing is all about.
 
 ### 6. Be the best in refactoring
 
