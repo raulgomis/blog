@@ -35,10 +35,11 @@ Software engineering is one the fields in which the motivation of the people is 
 
 
 ### 5. Test, test, test
-Learn how to unit test and write testable code (and maintanable code). If you write good unit tests, you will ensure all edge cases are covered. Additionally, writing unit tests will force you to think about the code you are writing and designing and implementing a good software architecture.
+Learn how to unit test and write testable code (and maintainable code). If you write good unit tests, you will ensure all edge cases are covered. Additionally, writing unit tests will force you to think about the solution you are designing and will lead you to implement a good software architecture (modular, extensible, maintainable, ...)
 
+One frequent mistake I have seen in several projects is that people tend to think that testing code is not production code so it does not need to be quality code: it could be duplicated, no patterns are needed, non-performant, etc. *Big mistake!* all the code in your project needs to be quality code, otherwise you will suffer endless refactoring sessions in your tests.
 
-[The art of unit testing](http://artofunittesting.com/) is a good book to get to learn what unit testing is all about.
+[The art of unit testing](http://artofunittesting.com/) is a good book to learn what unit testing is all about.
 
 ### 6. Be the best in refactoring
 
