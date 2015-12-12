@@ -8,7 +8,7 @@ comments: true
 ---
 
 *Software engineers* are responsible for designing, developing, maintaining, testing, and evaluating software and systems that make computers or anything containing software work. Nowadays, *software engineering* is one of the most promising careers and it is easy to notice due to the huge quantity of job offers, headhunters, etc. out there. In some situations, the term *programmer* has been used as a pejorative term to refer to those building software products. In response, I really think that coding is just the one of the skills, but a software engineer is much more that *just programming*.
-Here are the five of the most important skills and requirements you will need to consider if you want to become a software engineer:
+Here are the five of the most important skills you will need to consider if you want to become a software engineer:
 
 ### 1. Keep it simple
 The KISS principle ("Keep it simple, stupid", as a design principle noted by the U.S. Navy in 1960.) is a rule of thumb that is present in lots of areas. It was referred several times along the history: 
